@@ -104,9 +104,9 @@
               white.transparentize(50%),
               stack(
                 dir: ltr,
-                image("upb-logo.svg", height: 42pt),
+                image("logo.png", height: 42pt),
                 h(1fr),
-                stack(image("upb-triangles.svg", height: 27.7pt), v(1.8pt)),
+                stack(image("ufrgs.png", height: 27.7pt), v(1.8pt)),
                 h(3.8pt),
               ),
             ),
