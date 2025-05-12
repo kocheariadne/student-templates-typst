@@ -1,11 +1,10 @@
 [package]
-name = "upb-cn-templates"
+name = "nanoreap"
 version = "0.1.0"
 entrypoint = "index.typ"
 authors = ["bjoluc <mail@bjoluc.de>"]
-license = "MIT-0"
-description = "Templates for seminar reports and thesis proposals at the Computer Networks Group of Paderborn University"
-repository = "https://github.com/upb-cn/student-templates-typst"
+description = "Templates"
+repository = "https://github.com/kocheariadne/templates-typst-nanoreap"
 categories = ["report"]
 disciplines = ["computer-science"]
 compiler = "0.13.1"
