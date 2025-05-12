@@ -1,0 +1,6 @@
+id = "kocheariadne/nanoreap-template"
+version = "0.1.0"
+entrypoint = "template.typ"  # ou substitua com o nome real do seu arquivo principal
+authors = ["Ariadne"]
+license = "MIT"
+description = "Template Typst para documentos do grupo NanoREAP."
